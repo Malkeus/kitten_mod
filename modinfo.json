@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "kittens",
+    "name": "Kittens",
+    "authors": [ "Vic" ],
+    "description": "Adds kittens.",
+    "category": "creatures",
+    "dependencies": [ "dda" ]
+  }
+]
